@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:mparab3@asu.edu"><img src="https://img.shields.io/badge/Email-mparab3%40asu.edu-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/mitesh-parab"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mitesh-parab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
