@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:mparab3@asu.edu"><img src="https://img.shields.io/badge/Email-mparab3%40asu.edu-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mitesh-parab"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -60,48 +59,6 @@
 
 ---
 
-## 💼 Experience Snapshot
-
-### **Teaching Assistant — Arizona State University**
-
-* Mentored **100+ students** in full-stack development, REST APIs, database design, and enterprise systems architecture.
-* Reviewed projects for **code quality, scalability, security, and best practices**.
-
-### **Programmer Analyst Trainee — Cognizant**
-
-* Developed backend services and ETL workflows for enterprise-scale data processing.
-* Improved system performance by **20%** through query optimization and indexing strategies.
-* Automated validation and transformation tasks, reducing manual effort by **25%**.
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 CryptoFlow — Enterprise Real-Time Data Platform
-
-Production-grade cryptocurrency market intelligence platform built with **Python, Apache Kafka, Snowflake, dbt, and Airflow**.
-
-* Real-time processing with **99.9% integrity**
-* **Sub-second query latency**
-* Reduced manual processing by **85%**
-
-### 🔹 AI Academic Advisor — Amazon Hackathon
-
-Designed an AI-powered academic advising platform using **RAG + Amazon Bedrock**.
-
-* Built retrieval pipelines and AI recommendation workflows
-* Created evaluation frameworks using curated truth sets
-* Focused on **LLM integration, prompt engineering, and response quality**
-
-### 🔹 FlexiGig — B2B Gig Marketplace Platform
-
-Built a SaaS marketplace with **Node.js, PostgreSQL, and React**.
-
-* Enterprise authentication with **Passport.js + SSO**
-* Secure file storage using **AWS S3**
-* Automated workflows and a **production-ready multi-tenant architecture**
-
----
 
 ## 📊 GitHub Stats
 
@@ -132,31 +89,3 @@ Built a SaaS marketplace with **Node.js, PostgreSQL, and React**.
 </p>
 
 ---
-
-## ✨ Optional Add-ons
-
-You can also add these below if you want even more style:
-
-```md
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-```
-
-```md
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
-```
-
-```md
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
-```
-
----
-
-## 🔧 Before You Use This
-
-Replace these placeholders:
-
-* `YOUR_GITHUB_USERNAME`
-* `YOUR_GITHUB_URL`
-* `YOUR_LINKEDIN_URL`
-
-Then paste everything into the `README.md` of your special profile repository.
